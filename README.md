@@ -32,6 +32,7 @@ Format: Interactive coding sessions, real-world case studies, and guided exercis
 * Interaction with GEE via the Python API and geemap module
 * Exploring the Data Catalog
 
+
 1:30-2:30 - Extracting and Processing Climate data from ERA5
 
 **15 Minute Break**
