@@ -1,6 +1,7 @@
 # Harnessing Google Earth Engine for Ecological Insights: Climate, Weather, and Forest Structure Analysis with Python
 
 When: 1-4pm, Thursday, June 26, 2025
+
 Where: ES 4001
 
 ### Workshop Description:
