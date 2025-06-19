@@ -1,9 +1,9 @@
-Harnessing Google Earth Engine for Ecological Insights: Climate, Weather, and Forest Structure Analysis with Python
-When: 1-4pm, Thursday, June 26, 2025
+# Harnessing Google Earth Engine for Ecological Insights: Climate, Weather, and Forest Structure Analysis with Python
 
+When: 1-4pm, Thursday, June 26, 2025
 Where: ES 4001
 
-Workshop Description:
+### Workshop Description:
 This hands-on workshop introduces ecologists to the powerful capabilities of Google Earth Engine (GEE) for extracting and analyzing environmental data. Participants will learn how to leverage GEE’s vast satellite and climate data archives to explore ecological patterns and processes at local to global scales.
 
 Using Python as the primary interface, the workshop will guide attendees through:
@@ -16,13 +16,13 @@ This workshop will demonstrate how to create reproducible workflows for data acq
 
 Who Should Attend: Students with interest in ecological applications of remote sensing. A basic understanding of Python is considered an asset but not required.
 
-Key Takeaways:
+**Key Takeaways:**
 
 Practical skills in using GEE and Python for ecological data extraction and analysis. Understanding of key remote sensing datasets relevant to climate and forest ecology. Tools to build scalable, cloud-based workflows for environmental research.
 
 Format: Interactive coding sessions, real-world case studies, and guided exercises.
 
-Schedule
+**Schedule**
 1:00-1:30 - Introduction to Google Earth Engine and Python API
 
 What is Google Earth Engine?
