@@ -24,19 +24,20 @@ Practical skills in using GEE and Python for ecological data extraction and anal
 Format: Interactive coding sessions, real-world case studies, and guided exercises.
 
 **Schedule**
+
 1:00-1:30 - Introduction to Google Earth Engine and Python API
 
-What is Google Earth Engine?
-Explore Google Earth Engine Using to Code Editor
-Interaction with GEE via the Python API and geemap module
-Exploring the Data Catalog
-1:30-2:30 - Extracting and Processing Climate data from ERA5
+* What is Google Earth Engine?
+* Explore Google Earth Engine Using to Code Editor
+* Interaction with GEE via the Python API and geemap module
+* Exploring the Data Catalog
+* 1:30-2:30 - Extracting and Processing Climate data from ERA5
 
-15 Minute Break
+**15 Minute Break**
 
 2:45-3:45 - Extracting and Processing data from Awesome GEE Community Catalog
 
-High-resolution annual forest land cover maps for Canada's forested ecosystems (1984-2022)
-Canada Landsat Derived Forest harvest disturbance 1985-2020
-Canada Long Term Tree Species (1984-2022)
-National Burned Area Composite (NBAC)
+*  High-resolution annual forest land cover maps for Canada's forested ecosystems (1984-2022)
+*  Canada Landsat Derived Forest harvest disturbance 1985-2020
+*  Canada Long Term Tree Species (1984-2022)
+*  National Burned Area Composite (NBAC)
