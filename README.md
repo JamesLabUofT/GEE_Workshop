@@ -31,7 +31,8 @@ Format: Interactive coding sessions, real-world case studies, and guided exercis
 * Explore Google Earth Engine Using to Code Editor
 * Interaction with GEE via the Python API and geemap module
 * Exploring the Data Catalog
-* 1:30-2:30 - Extracting and Processing Climate data from ERA5
+
+1:30-2:30 - Extracting and Processing Climate data from ERA5
 
 **15 Minute Break**
 
